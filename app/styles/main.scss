@@ -7,10 +7,17 @@ body {
 .products {
     width: 95%;
 
-    .pic {
+    .wrapper {
         float: left;
+        height: 250px;
+        width: 250px;
+        margin: 20px;
+        border-width: 4px;
+        border-color: black;
+    }
+
+    .pic {
         height: 330px;
-        width: 25%;
     }
 
     .info {
