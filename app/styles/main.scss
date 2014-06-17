@@ -4,11 +4,18 @@ body {
     color: #333;
 }
 
-.item {
-    float: left;
-    height: 330px;
-    width: 325px;
-    background: red;
+.products {
+    width: 95%;
+
+    .pic {
+        float: left;
+        height: 330px;
+        width: 25%;
+    }
+
+    .info {
+        clear: both;
+    }
 }
 
 .hero-unit {
