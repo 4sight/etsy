@@ -16,20 +16,22 @@ body {
         border: 2px solid #EBEBEB;
     }
 
-    .pic {
-        height: 330px;
-    }
-
     .title {
-        margin-top: 8px;
+        margin-top: 207px;
         color: #64637D;
         font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        height: 14px;
+        font-size: 14px;
+        height: 16px;
         clear: both;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
+    }
+
+    .category {
+        margin-top: 6px;
+        color: #B0AAB2;
+        font-size: 13px;
     }
 }
 
